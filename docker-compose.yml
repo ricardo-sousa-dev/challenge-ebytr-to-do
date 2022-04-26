@@ -94,6 +94,7 @@ volumes:
 
 # Para parar o sistema multi-container, execute:
 # docker-compose down --rmi all -v
+# --rmi all -v remove todas as imagens e volumes criados
 
 # Para abrir o frontend no navegador, http://localhost:3000 
 # O servidor de back-end está ativo http://localhost:5000
