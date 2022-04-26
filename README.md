@@ -1,4 +1,4 @@
-# Bem-vindos ao Todo List Ebytr - Frontend
+# Bem-vindos ao Todo List Ebytr
 
 ## Contexto
 
