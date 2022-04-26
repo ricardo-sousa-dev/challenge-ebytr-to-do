@@ -23,7 +23,7 @@ Copie o ssh do projeto `git@github.com:ricardo-sousa-dev/challenge-ebytr-to-do.g
 
   * `docker-compose up -d`
   
-  Basta digitar no seu navegador `http://localhost:3001/` e você já conseguirá utilizar a aplicação.
+  Basta digitar no seu navegador `http://localhost:3000/` e você já conseguirá utilizar a aplicação.
 
 #### [Clique aqui](https://challange-ebytr-to-do.herokuapp.com/) para utilizar a aplicação online, sem a necessidade de instalação local.
 ---
